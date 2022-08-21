@@ -19,7 +19,7 @@ Sanity database for pulling dynamic data<br/>
 Metamask for authentication<br/><br/>
 
 How you can use this repo:<br/>
-1.Co=lone this repo to your local computer.<br/>
+1.Clone this repo to your local computer.<br/>
 2.Install the dependecies using yarn add or npm install<br/>
 3.Configure your sanity database<br/>
 4.Use your own API key of Pinata, Alchemy <br/>
