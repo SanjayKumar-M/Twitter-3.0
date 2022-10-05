@@ -18,6 +18,16 @@ Sanity database for pulling dynamic data<br/>
 7.Authentication:<br/>
 Metamask for authentication<br/><br/>
 
+Some stuffs...
+
+![1](https://user-images.githubusercontent.com/73515250/194106923-11b683dd-2193-4621-974f-3cabbab24ca3.png)
+![2](https://user-images.githubusercontent.com/73515250/194106942-f96bce58-585e-4c84-91fe-4241938b7de8.png)
+![3](https://user-images.githubusercontent.com/73515250/194106962-02826080-8d49-420e-9aea-8b37fc1c8ef9.png)
+![4](https://user-images.githubusercontent.com/73515250/194106984-7ee2f923-32f7-4051-8e59-5b219dc776ca.png)
+
+![5](https://user-images.githubusercontent.com/73515250/194107313-b5e4e5f8-a72e-4ec2-bfb9-2940b0463ece.png)
+![6](https://user-images.githubusercontent.com/73515250/194107333-6adab82f-55b4-4a4c-9cf5-caddd0d4b30f.png)
+
 How you can use this repo:<br/>
 1.Clone this repo to your local computer.<br/>
 2.Install the dependecies using yarn add or npm install<br/>
@@ -26,6 +36,6 @@ How you can use this repo:<br/>
 5.Change the Nft.json file with your deployed address.<br/>
 6.That's it. Now you can experience this dapp.
 <br/><br/>
-Contributions to this repo is welcomed always.💪<br/>
+
 
 Kudos ❇️
