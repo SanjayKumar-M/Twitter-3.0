@@ -1,5 +1,5 @@
-I need a twitter without bots. I need a twitter without fake accounts. I need a twitter with decentralization.<br/>
-So I made it. A decentralized twitter (Twitter3) which offers all this features with cool UI and NFT minter.<br/>
+I require a bot-free Twitter. I require a legitimate Twitter account. I require a decentralised Twitter. <br/>
+So I succeeded. With a sleek user interface and NFT minter, Twitter3 is a decentralised Twitter that delivers all of these features. <br/>
 🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦 <br/><br/>
 
 I built this dapp on polygon with next js as front end. Tech Stack I used,<br/>
@@ -28,14 +28,14 @@ Some stuffs...
 ![5](https://user-images.githubusercontent.com/73515250/194107313-b5e4e5f8-a72e-4ec2-bfb9-2940b0463ece.png)
 ![6](https://user-images.githubusercontent.com/73515250/194107333-6adab82f-55b4-4a4c-9cf5-caddd0d4b30f.png)
 
-How you can use this repo:<br/>
-1.Clone this repo to your local computer.<br/>
-2.Install the dependecies using yarn add or npm install<br/>
-3.Configure your sanity database<br/>
-4.Use your own API key of Pinata, Alchemy <br/>
-5.Change the Nft.json file with your deployed address.<br/>
-6.That's it. Now you can experience this dapp.
-<br/><br/>
+How to use this repository:
+1. Copy this repository to your computer's local drive.
+2. Install the dependencies via npm install or yarn add.
+3. Set up your sanity database
+4. Use your own Pinata, Alchemy API key.
+5. Replace the address you deployed with in the Nft.json file.
+6. The end. You can use this dapp.
+
 
 
 Kudos ❇️
