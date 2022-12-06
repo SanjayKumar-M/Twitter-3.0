@@ -1,6 +1,6 @@
 I require a bot-free Twitter. I require a legitimate Twitter account. I require a decentralised Twitter. <br/>
 So I succeeded. With a sleek user interface and NFT minter, Twitter3 is a decentralised Twitter that delivers all of these features. <br/>
-🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦 <br/><br/>
+<br/><br/>
 
 I built this dapp on polygon with next js as front end. Tech Stack I used,<br/>
 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:<br/>
