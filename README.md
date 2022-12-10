@@ -14,8 +14,7 @@ I built this dapp on polygon with next js as front end. Tech Stack I used,<br/>
 5.Hardhat<br/>
 6.Database:<br/>
 Sanity database for pulling dynamic data<br/>
-7.Authentication:<br/>
-Metamask for authentication<br/><br/>
+
 
 Some stuffs...
 
